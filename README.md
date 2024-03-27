@@ -1,4 +1,4 @@
-**Binary Trees Project**
+# Binary Trees Project
 
 This project is a simple implementation of binary trees, aimed at providing a basic understanding of tree data structures and their operations. 
 
